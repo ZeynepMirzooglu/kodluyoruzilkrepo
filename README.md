@@ -17,4 +17,4 @@ Kodluyoruz Front-End Eğitimi kapsamında açtığım ilk repo
 ******
 ***Zeynep Mirzooğlu***
 
-[](https://www.patika.dev)
+[patika.dev](https://www.patika.dev)
